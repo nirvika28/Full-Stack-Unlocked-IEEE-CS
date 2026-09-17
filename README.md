@@ -22,15 +22,7 @@ Store event details in SQLite
 Register for an event
 Update the registration count
 
-Backend flow
-User
-  ↓
-HTML/CSS/JavaScript
-  ↓
-Flask API
-  ↓
-SQLite (events.db)
-  ↓
-JSON response
-  ↓
-Frontend# Full-Stack-Unlocked-IEEE-CS
+BACKEND:-------
+<img width="937" height="152" alt="image" src="https://github.com/user-attachments/assets/768de714-01d9-46d8-9dc6-37f5a6cb0f49" />
+<img width="951" height="405" alt="image" src="https://github.com/user-attachments/assets/db86edb1-ca7a-481b-b890-e768991c6bd7" />
+
